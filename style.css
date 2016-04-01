@@ -1,0 +1,44 @@
+h4 {
+	color: white;
+  	font: sans-serif;
+}
+
+body {
+  background-color: #0099cc;
+}
+
+h3 {
+	color: gray !important;
+	font: sans-serif !important;
+	float: left !important;
+	clear: right;
+}
+
+.wrapper {
+	overflow: auto;
+	float: right;
+	font: sans-serif;
+	color: gray;
+	margin-top: 20px;
+	position: relative;
+}
+
+.add-to-cart {
+	clear: both;
+	position: relative;
+}
+
+.row {
+  height:100%;
+}
+
+.thumbnail {
+    height:100%;
+    max-height:100px;
+
+}
+
+img {
+    max-height:100px !important;
+  	
+}
